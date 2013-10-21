@@ -1,0 +1,14 @@
+http://maketecheasier.com/10-funny-and-useless-linux-command/2012/03/22
+http://lmpeiris.wordpress.com/2011/01/17/cowsayhow-to-make-a-cow-talk-on-terminal-startup/
+http://www.linuxjournal.com/content/tech-tip-using-figlet-spice-your-scripts
+http://www.linux.com/learn/docs/686943-linux-tips-fun-with-figlet-and-toilet
+
+#showfigfonts
+#figlet -f [font] daru
+#date | figlet
+#figlet [text]
+#cowsay -l
+#cowsay -f [cowsay] [text]
+#fortune | cowsay
+#fortune | cowsay [text]
+
